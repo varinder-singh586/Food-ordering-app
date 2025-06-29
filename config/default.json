@@ -1,0 +1,10 @@
+{
+    "port":9900,
+    "jwtOption": {
+        "jwtSecretKey": "ededwedwwpolfePtbEadRzVlewewf2323ferferf2323",
+        "expiresIn": "1h"
+    },
+    "mongo": {
+        "url" : "mongodb://localhost:27017/food-ordering"
+    }
+}
